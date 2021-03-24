@@ -15,5 +15,5 @@
     $total = $totalAmarilla + $totalRoja + $totalVerde;
 	
     echo "Se compraron <b> $kilos </b> kilos de uva, el total es de: <b> $total </b>";
-	echo "Karla Ivonne Vargas Rojas"
+	echo "Karla Ivonne Vargas Rojas";
 ?
